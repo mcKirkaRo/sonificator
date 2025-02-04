@@ -1,4 +1,4 @@
-Sonification - convert a file in txt or csv format on MIDI file
+**Sonification - convert a file in txt or csv format on MIDI file**
 
 
 The script allows you to convert a file in txt or csv format   
@@ -22,22 +22,25 @@ etc.
 
 Python >3.7
 
-compact version for terminal    
-Mido is a library required - https://pypi.org/project/mido/  
+**compact version for terminal**    
+Mido is a library required - https://pypi.org/project/mido/ 
+    
 `pip install mido`  
-for  terminal version sonificator-cmd.py  
+     
 run  windows `python sonificator-cmd.py`  
-or  
+  
 run linux `python3 sonificator-cmd.py`  
   
-  and
+ or
   
-GUI version  
-Pygame is a library required - https://pypi.org/project/pygame/  
-`pip install pygame`  
-for  window version sonificator.py  
+**GUI version**  
+Mido is a library required - https://pypi.org/project/mido/  
+Pygame is a library required - https://pypi.org/project/pygame/ 
+    
+`pip install mido pygame`  
+
 run windows  `python sonificator.py`  
-or  
+  
 run linux  `python3 sonificator.py`  
 
 https://github.com/user-attachments/assets/55a83cfe-9f6e-408c-a59a-8718d2d11a1a
