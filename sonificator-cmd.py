@@ -1,7 +1,7 @@
 #Mido is a library required - pip install mido - https://pypi.org/project/mido/
 #development + Nikitin Alexander, astromc@ya.ru
-#for perpetual motion eth:arb1:oeth:0xf08a5db47355cde223f1801fcfbb272a142361f1
-#dogecoin:DRTnrKz7BEy8HcMtFQBRN1nBgteztJeYz5
+#
+#
 #файлы только c кодировкой UTF 
 #UTF-8,txt/csv only
 #---------------------------------------------------------
@@ -29,3 +29,4 @@ with open(name_file_in, "r") as file1:
          track.append(Message('note_off', note = int(line.strip()), velocity = 64, time = 32))
 
 mid.save(name_file_out)
+
