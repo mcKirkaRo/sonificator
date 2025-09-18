@@ -2,8 +2,8 @@
 #Mido is a library required - pip install mido - https://pypi.org/project/mido/
 #Pygame is a library required - pip install pygame - https://pypi.org/project/pygame/
 #development + Nikitin Alexander, astromc@ya.ru
-#for perpetual motion eth:arb1:oeth:0xf08a5db47355cde223f1801fcfbb272a142361f1
-#dogecoin:DRTnrKz7BEy8HcMtFQBRN1nBgteztJeYz5
+#
+#
 #
 from tkinter import *
 import tkinter.messagebox
@@ -154,3 +154,4 @@ but_process.bind("<ButtonRelease-1>", play )
 but_helpme.bind("<ButtonRelease-1>", helpme)
 # запускаем программу start the program
 root.mainloop()
+
