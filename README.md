@@ -1,7 +1,7 @@
 **Sonification - convert a file in txt or csv format on MIDI file**
 
 
-The script allows you to convert a file txt or csv format   
+The script allows you to convert a txt or csv format   
 with a given series of numbers into an audio file, creating a MIDI file.  
  This process is called sonification.  
 
@@ -44,4 +44,5 @@ run windows  `python sonificator.py`
 run linux  `python3 sonificator.py`  
 
 https://github.com/user-attachments/assets/55a83cfe-9f6e-408c-a59a-8718d2d11a1a
+
 
